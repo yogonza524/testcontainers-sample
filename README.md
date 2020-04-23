@@ -7,7 +7,6 @@ and then assert if the container is running ok
 ## Usage
 ```bash
 .gradlew test
-testcontainer/sample/LibraryTest.java
 ```
 [Checkout this example](src/test/java/testcontainer/sample/LibraryTest.java)
 
